@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/window.qml</file>
+        <file>qml/CPUStyle.qml</file>
+        <file>qml/CPUGaugeStyle.qml</file>
+        <file>fonts/DejaVuSans.ttf</file>
+        <file>fonts/LICENSE</file>
+        <file>main.cpp</file>
+    </qresource>
+</RCC>
